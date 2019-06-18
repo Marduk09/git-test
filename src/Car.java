@@ -1,13 +1,13 @@
 
 public class Car {
 	
-	private int speed;
+	private double speed;
 	private String name;
 	
-	public int getSpeed() {
+	public double getSpeed() {
 		return speed;
 	}
-	public void setSpeed(int speed) {
+	public void setSpeed(double speed) {
 		this.speed = speed;
 	}
 	public String getName() {
