@@ -1,7 +1,7 @@
 
 public class Car {
 	
-	private int speed;
+	protected int speed;
 	private String name;
 	
 	public int getSpeed() {
